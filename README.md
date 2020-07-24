@@ -1,7 +1,7 @@
 # Sprint Challenge: Computer Architecture - Conditional Jumps
 
 This challenge allows you to practice the concepts and techniques learned over
-the past week and apply them in a concrete project.
+the past week and apply them in a concrete project. This Sprint explored TOPIC.
 During this Sprint, you studied CPU components, number bases, bitwise
 operations, CPU stack, interrupts, and subroutines.
 
